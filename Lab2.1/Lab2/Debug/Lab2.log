@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\Programs\Labs C\Lab2.1\Lab2\Header.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programs\Labs C\Lab2.1\Lab2\Source.c(16,235): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\Programs\Labs C\Lab2.1\Lab2\Source.c(16,235): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+D:\Programs\Labs C\Lab2.1\Lab2\Source.c(9,12): warning C4101: e: неиспользованная локальная переменная
+  Lab2.vcxproj -> D:\Programs\Labs C\Lab2.1\Debug\Lab2.exe

@@ -1,0 +1,7 @@
+﻿  Source.c
+D:\Programs\Labs C\Lab2.2.6\Lab2.1\Source.c(23,16): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Programs\Labs C\Lab2.2.6\Lab2.1\Source.c(23,16): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+D:\Programs\Labs C\Lab2.2.6\Lab2.1\Source.c(23,16): message : отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+D:\Programs\Labs C\Lab2.2.6\Lab2.1\Source.c(23,16): message : этот аргумент используется в качестве размера буфера
+D:\Programs\Labs C\Lab2.2.6\Lab2.1\Source.c(29,4): warning C4550: вычисление выражения дает функцию, в которой отсутствует список аргументов
+  Lab2.1.vcxproj -> D:\Programs\Labs C\Lab2.2.6\Debug\Lab2.1.exe

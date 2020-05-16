@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Programs\Labs C\Lab4\Lab4\Source.c(26,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab4.vcxproj -> D:\Programs\Labs C\Lab4\Debug\Lab4.exe

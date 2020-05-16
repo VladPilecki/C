@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Programs\Labs C\Lab4.2\Lab4.2\Source.c(101,32): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Programs\Labs C\Lab4.2\Lab4.2\Source.c(129,13): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab4.2.vcxproj -> D:\Programs\Labs C\Lab4.2\Debug\Lab4.2.exe
